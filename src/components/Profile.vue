@@ -4,6 +4,7 @@
       <div class="sm:p-16 lg:p-0">
         <div class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
           <table class="min-w-full divide-y divide-slate-1000">
+            <caption></caption>
             <thead class="bg-purple-500">
               <tr>
                 <th

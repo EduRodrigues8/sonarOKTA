@@ -164,7 +164,7 @@ body {
   border: 0;
   margin: 0;
   padding: 0;
-  font-family: "Lato";
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
   height: 100%;
   background: rgb(23, 0, 151);
   background: linear-gradient(45deg, rgb(23, 0, 151) 30%, rgb(23, 0, 151) 48%);
